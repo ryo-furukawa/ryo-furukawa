@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [仕事を任せてもらうための方法6選](https://zenn.dev/furu_39/articles/34da703e2cf66e)
 <!-- BLOG-POST-LIST:END -->
 
 ### Languages and Tools
