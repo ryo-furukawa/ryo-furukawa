@@ -46,10 +46,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-furukawa&show_icons=true&locale=en&layout=compact" alt="ryo-furukawa" style="width: 100%;">
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ryo-furukawa&show_icons=true&locale=en" alt="ryo-furukawa" style="width: 100%;">
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-furukawa&show_icons=true&locale=en&layout=compact" alt="ryo-furukawa" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryo-furukawa&show_icons=true&locale=en" alt="ryo-furukawa" style="width: 48%;">
+</div>
