@@ -1,5 +1,6 @@
 name: BlogPost
-on: 
+on:
+  workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
 
