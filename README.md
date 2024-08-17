@@ -36,10 +36,7 @@ Here are some ideas to get you started:
 
 ## ![zenn](./img/zenn.png) Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Draw.ioとは？何が出来る？！](https://zenn.dev/furu_39/articles/6660e17bfd4fd1)
 - [フロントエンドの仕組みを理解しよう！](https://zenn.dev/furu_39/articles/8a1fba65b465ad)
-- [Web開発プロジェクトの契約と納品の流れ](https://zenn.dev/furu_39/articles/0d6683a8d5e5b4)
-- [仕事を任せてもらうための方法6選](https://zenn.dev/furu_39/articles/34da703e2cf66e)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
